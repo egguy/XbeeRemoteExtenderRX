@@ -1,4 +1,4 @@
 XbeeRemoteExtenderRX
 ====================
 
-The RX part of the remote exten
+The RX part of the remote extender
